@@ -1,0 +1,219 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    position: relative;
+    width: 100%;
+    height: 650vh;
+    background-image: url("./PORTFO_FOND_3.png");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+.titre {
+    position: absolute;
+    width: 95%;
+    top : 1vh; 
+    left : 1vh;
+}
+
+.moi {
+    position: absolute;
+    top : 10vh;
+    width: 100%;
+    z-index : 0;
+}
+
+.bloc1 {
+    position: absolute;
+    top : 45vh;
+    left: 2vh;
+    width: 70%;
+    z-index : 1; 
+}
+
+.bloc2 {
+    position: absolute;
+    top : 80vh;
+    left: 2vh;
+    width: 90%;
+    z-index : 1; 
+}
+
+.bloc-numero {
+    position: absolute;
+    width: 65%;
+    z-index : 1; 
+}
+
+.bloc3 {
+    position: absolute;
+    top : 90vh;
+    left: 2vh;
+    width: 90%;
+    z-index : 3; 
+}
+
+.blocemail {
+   position: absolute;
+    top : 0vh;
+    left: 0vh;
+    width: 100%;
+    z-index : 3; 
+
+}
+
+.premierblocimg {
+    position: absolute;
+    width: 100%;
+    z-index : 1;
+}
+
+.logicielbloc {
+    position: absolute;
+    top : 60vh;
+    left: 18vh;
+    width: 60%;
+    z-index : 2;
+}
+
+.date {
+    position: absolute;
+    top : 8vh;
+    right: 3vh;
+    width: 20%;
+    z-index : 3; 
+}
+.a {
+    position: absolute;
+    font-family: "ohno-softie-variable", sans-serif;
+    color: #2b1e03;
+    font-weight: 400;
+    font-variation-settings: "wght" 400; 
+    z-index: 5;
+}
+
+.p {
+    position: absolute;
+    font-family: "ohno-softie-variable", sans-serif;
+    color: #2b1e03;
+    font-weight: 400;
+    font-variation-settings: "wght" 400; 
+    z-index: 5;
+    left : 5vh;
+    top : -1.3vh;
+}
+
+.c {
+   position: absolute;
+    font-family: "ohno-softie-variable", sans-serif;
+    color: #412d04;
+    font-weight: 400;
+    font-variation-settings: "wght" 400; 
+    z-index: 5;
+    left : 5vh;
+    top : -1.3vh;  
+}
+
+.banniere1 {
+    position : absolute;
+    top : 100vh;
+    width: 95%;
+    left : 1.5vh;
+    z-index: 2;
+}
+
+
+.fil-de-leduc {
+    position: relative;
+    top : 110vh;
+    left :15vh;
+    width: 50%;
+    z-index : 2;
+}
+
+.cdpbloc {
+    position : absolute;
+    top : 127vh;
+    width: 44%;
+    left : 20vh;
+    z-index : 10;
+}
+
+.ombrebloc {
+    position : absolute;
+    top : 130vh;
+    width: 40%;
+    left : 22vh;
+    z-index : 1;
+    border-radius: 5%;
+}
+
+.ombre2 {
+    position : absolute;
+    top : 159vh;
+    width: 40%;
+    left : 3vh;
+    z-index : 1;
+    border-radius: 5%;
+}
+.pge-epitechbloc {
+    position : absolute;
+    top : 155vh;
+    width: 50%;
+    left : 2vh;
+    z-index : 10;
+}
+
+.bacbloc {
+    position : absolute;
+    top : 180vh;
+    width: 50%;
+    left : 25vh;
+    z-index : 10;
+}
+
+.banniere2 {
+    position : absolute;
+    top : 203vh;
+    width: 95%;
+    left : 1.5vh;
+    z-index: 3;
+}
+
+.brandingpage {
+    position : absolute;
+    top : 230vh;
+    width: 60%;
+    left : 10vh;
+    z-index: 2;
+}
+
+.digdespage {
+    position : absolute;
+    top : 260vh;
+    width: 60%;
+    left : 10vh;
+    z-index: 2;
+}
+
+.devpage {
+    position : absolute;
+    top : 290vh;
+    width: 60%;
+    left : 10vh;
+    z-index: 2;
+}
+
+.animpage {
+    position : absolute;
+    top : 320vh;
+    width: 60%;
+    left : 10vh;
+    z-index: 2;
+}

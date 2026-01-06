@@ -1,0 +1,9 @@
+ ! + TAB = header
+
+ ynov fait appel a vous pour son prijet de mise en place de oevre d'art
+generé par l'ia autour de l'univers de cet expo souhaite developer 
+un site web vitrine presentant le concept de l'exposition -> 
+ecouter le exigences et proposer les differents sites.
+
+ deadline de livrable  --> 19 juin.
+ ! ne pas integrer le cahier des charge au dossier final à rendre.
